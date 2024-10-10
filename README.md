@@ -45,5 +45,15 @@ This code is implemented based on https://github.com/junyanz/pytorch-CycleGAN-an
 
 ## References
 If you find the code useful for your research, please consider citing
-‘’‘
-’‘’
+```
+@inproceedings{mi2024towards,
+  title={Towards Model Extraction Attacks in GAN-Based Image Translation via Domain Shift Mitigation},
+  author={Mi, Di and Zhang, Yanjun and Zhang, Leo Yu and Hu, Shengshan and Zhong, Qi and Yuan, Haizhuan and Pan, Shirui},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={18},
+  pages={19902--19910},
+  year={2024}
+}
+```
+```
