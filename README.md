@@ -42,3 +42,8 @@ fidelity --kid --fid --kid-subset-size 100 --gpu 0 --input1 ./fake_images --inpu
 ```
 ### Acknowledgement
 This code is implemented based on https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix, https://github.com/ArchipLab-LinfengZhang/wkd-datasets, and https://github.com/google-research/sam. For more details, you can check their GitHub project page.
+
+## References
+If you find the code useful for your research, please consider citing
+‘’‘
+’‘’
