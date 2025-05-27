@@ -3,9 +3,7 @@ This repository contains the source code for the paper “Towards Model Extracti
 
 
 ## Environment Configuration
-```
-pip install -r requirements.txt
-```
+[CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 
 ## Description
 You can collect training data for the attack model by sending queries to the victim model with the attack data as stated in our paper. In training, you need to construct a dataset that includes trainA and trainB. By default trainA is the attack dataset and trainB is the data returned by the victimization model. Similarly, during testing, you need to construct a dataset that includes testA and testB, containing source and target domain data, respectively.
